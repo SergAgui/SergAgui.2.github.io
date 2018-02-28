@@ -29,7 +29,7 @@ img {
 .head {
   width: 100%;
   height: 50%;
-  font-size: 75px;
+  font-size: 35px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -154,21 +154,3 @@ a:hover {
   transition-duration: 3s;
   transition: transform 2s;
 }
-
-/* COMMENTED OUT BECAUSE THINKING ABOUT PUTTING THE LINKS AT THE TOP OF THE PAGE INSTEAD */
-/* footer {
-  width: 100%;
-  height: auto;
-  display: block;
-  bottom: 0;
-}
-
-.end {
-  border: 1px solid pink;
-  display: flex;
-  justify-content: space-around;
-}
-
-.end h3 {
-  color: white;
-} */
